@@ -7,4 +7,4 @@ It is a published research on interaction Science and system design, looking at 
 - Shrejal Singh
 - Aaquib Ali
 - Ruthvik Kanukunta
-- Ekta 
+- Ekta Arora
