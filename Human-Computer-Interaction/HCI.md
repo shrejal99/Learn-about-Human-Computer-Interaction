@@ -12,8 +12,8 @@ When we talk about the computer, we're referring to any technology ranging from 
 * Interaction
 There are obvious differences between humans and machines. In spite of these, HCI attempts to ensure that they both get on with each other and interact successfully. In order to achieve a usable system, you need to apply what you know about humans and computers, and consult with likely users throughout the design process. In real systems, the schedule and the budget are important, and it is vital to find a balance between what would be ideal for the users and what is feasible in reality.
 
-<P align="center">
- <img src="" width=300px>
+<p align="center">
+ <img src="https://github.com/shrejal99/Learn-about-Human-Computer-Interaction/blob/main/Human-Computer-Interaction/HCImg/img2.png?raw=true" width=300px>
 </p>
 ---
 
@@ -62,7 +62,9 @@ There are a large number of factors which should be considered in the analysis a
 *   **[IDEA] Computer-supported cooperative work**: how can we use computers to support people working together?
     *   The CSCW community often breaks things down into two dimensions: time and place
     *   We can think of design as whether we’re designing for users in the same time and place or at different times and in different places
-    * ![screenshot](/images_Exam1/image3.png)
+    * <p align="center">
+      <img src="https://github.com/shrejal99/Learn-about-Human-Computer-Interaction/blob/main/Human-Computer-Interaction/HCImg/IMg1.jpeg?raw=true" width=300px>
+       </p>
     *   Think of CSCW as mediating cooperation across traditional geographical and temporal borders, but it can also help with colocated simultaneous cooperation
     *   **Examples**: museum asking visitors for their location (same place, different times) / Dr. Joyner recording a video and us watching it (diff place, diff time) / Slack (diff place, same time)
 *   **[IDEA] Social computing**: how computers affect the way we interact and socialize
