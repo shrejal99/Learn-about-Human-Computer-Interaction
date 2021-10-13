@@ -86,7 +86,6 @@ There are a large number of factors which should be considered in the analysis a
     *   The actions the user takes with the controller should feel like they’re actually interacting within the game world
     *   Video games are a near-constant feedback cycle as the user takes actions, evaluates the results, and adjusts accordingly.
     *   Poor interface design can frustrate users, causing the game to be reviewed as poor
-    * ![screenshot](/images_Exam1/image5.png)
 
 
 ---
