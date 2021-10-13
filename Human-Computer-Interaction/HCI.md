@@ -1,13 +1,13 @@
 ---
 
-##1.1 Introduction to HCI
+## 1.1 Introduction to HCI
 
 
 
 *   Human-computer interaction can take different forms:
     *   Human interacts with computer (and vice-versa)
     *   Human interacts with a task through a computer (computer mediates the interaction) => the human + computer interact with the task together
-        *   Ideally, we focus on making the interface of the computer/program as invisible as possible, so the human can focus on the task they’re trying to accomplish
+       *   Ideally, we focus on making the interface of the computer/program as invisible as possible, so the human can focus on the task they’re trying to accomplish
         *   The goal is to let the user spend as much time thinking about the task rather than thinking about the interface
     *   Video games: the controller behaves as you expect it to, becoming invisible as you try to accomplish your in-game mission
     *   Having more than one remote control: you need to spend time looking at the remote, determining which one is best for the task, if you need to use multiple controls, etc
@@ -15,22 +15,22 @@
     *   We might be experts at interacting with computers, but that doesn’t make us experts at designing interactions between other humans and computers.
 *   HCI is a subset of the broader field of **human factors engineering **
     *   **Human factors engineering**: designing the interactions between people and products, systems, or devices
-        *   We’re interested in designing the interactions between people and computers, but computers are themselves products or systems.
+       *   We’re interested in designing the interactions between people and computers, but computers are themselves products or systems.
         *   Human factors is interested in the non-computing parts of this as well
         *   As computers integrate themselves into more and more of our devices, the gap between human-computer interaction and human factors engineering is shrinking.
         *   Can be seen as the merging of engineering + psychology + design + cognitive science fields
         *   Psychology is a symbiotic field with HCI — psychology informs HCI, and we use our experiences and feedback in HCI to add to the field of psychology
     *   HCI is largely about understanding the interactions between humans and computers.
     *   UX design is largely about designing, or dictating, those interactions.
-        *   We use what we understand about humans to design user experiences, then we use the results of these user experiences to examine whether our understanding was correct.
-        *   Called **design-based research**: using the results of our designs to conduct research => research informs the design, and feedback from the designs informs/updates/adds to our research 
+    *   We use what we understand about humans to design user experiences, then we use the results of these user experiences to examine whether our understanding was correct.
+    *   Called **design-based research**: using the results of our designs to conduct research => research informs the design, and feedback from the designs informs/updates/adds to our research 
 
 
 
 ---
 
 
-##1.2 Exploring HCI
+## 1.2 Exploring HCI
 
 
 
@@ -78,7 +78,7 @@
 ---
 
 
- ##1.3 The future of human-computer interactions in smart and interconnected environments
+ ## 1.3 The future of human-computer interactions in smart and interconnected environments
  
  
 * In this era of rapidly advancing technology, the future of living and functional environments would involve humans interacting, coordinating, and collaborating with computers, machines, robots, and various technology-laden systems in a multitude of ways. Examples of such smart and interconnected environments include Smart Homes, Smart Industries, Smart Workplaces, Smart Buildings, and Smart Cities, just to name a few. These two books present discoveries, innovative ideas, concepts, theoretical findings, practical solutions, improvements, and novel applications in Human-Computer Interaction (HCI) aimed at developing trust, user acceptance, enhancing user performance, improving quality of life, and fostering human-technology partnerships in the future of technology-laden living and functional environments.
