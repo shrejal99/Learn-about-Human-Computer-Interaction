@@ -12,6 +12,9 @@ When we talk about the computer, we're referring to any technology ranging from 
 * Interaction
 There are obvious differences between humans and machines. In spite of these, HCI attempts to ensure that they both get on with each other and interact successfully. In order to achieve a usable system, you need to apply what you know about humans and computers, and consult with likely users throughout the design process. In real systems, the schedule and the budget are important, and it is vital to find a balance between what would be ideal for the users and what is feasible in reality.
 
+<P align="center">
+ <img src="" width=300px>
+</p>
 ---
 
 ## 1.2 Factors in HCI
