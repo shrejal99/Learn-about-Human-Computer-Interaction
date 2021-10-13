@@ -1,4 +1,6 @@
 
+<h1 align="center"> Learn-about-Human-Computer-Interaction </h1>
+
 ## 1.1 Introduction to HCI
 
 * HCI (human-computer interaction) is the study of how people interact with computers and to what extent computers are or are not developed for successful interaction with human beings.As its name implies, HCI consists of three parts: the user, the computer itself, and the ways they work together.
