@@ -97,3 +97,15 @@ There are a large number of factors which should be considered in the analysis a
 * Human-Computer Interaction and Beyond: Advances Towards Smart and Interconnected Environments is an informative reference for scientists, researchers, and developers in both academia and industry who wish to learn, design, implement, and apply these emerging technologies in HCI in different sectors, with the goal of realizing futuristic technology-driven living and functional smart cities and environments.
 
 ---
+
+
+ ## 1.5 A Better Future – A Better World
+ 
+ 
+* There’s one thing that remains certain – new forms of HCI will change our lives significantly. They will, undoubtedly, offer the chance to improve the quality of life of people who can’t take advantage of current interfaces due to physical disabilities. But then again, it comes with a hitch. New issues will arise such as the ones related to privacy, security, and ethics, thus potentially slowing the diffusion of new hardware and software.
+
+* What is amazing about human computer interaction is that just as the mouse and the keyboard were innovations, and the iPhone was a better innovation, the Kinect is also an innovation in response to input technology. But all these are just stepping stones towards less physical interfaces.
+
+* The opportunities for HCI are tremendous. Progress toward more user-friendly and natural interfaces for human-machine interaction can yield a plethora of advantages and can majorly impact everyday life.
+
+---
